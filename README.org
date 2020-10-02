@@ -1,0 +1,7 @@
+#+TITLE: Readme
+#+OPTIONS: todo:t num:t
+
+NOTE: This is in its very early stages. Nothing much here yet.
+
+
+A visual way to edit org files as mind maps.
